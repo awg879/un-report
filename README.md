@@ -1,6 +1,7 @@
 # note for UN report
 
-Hello
+We plotted life expectancy
 
+Each point represent a country.
 
-Each point represent a country
+Continents are grouped by color.
